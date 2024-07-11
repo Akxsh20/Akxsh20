@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akxsh20
+- 👋 Hi, I’m @Akxsh20 , A master's student at University of Adelaide, majoring in Artificial Intelligence and Machine Learning.
 - 👀 I’m seeking for research internship opportunities, prefferably in the field of Data science, Machine Learning and computer vision.
 - 🌱 I’m currently gaining skills on object detection and training models to identify real time objects.
 - 📫 How to reach me : you can send me an email at : akash.kbarik1@gmail.com
