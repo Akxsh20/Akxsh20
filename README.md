@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akxsh20
-- 👀 I’m interested in Programming,Exploring  New Technologies  
-- 🌱 I’m currently learning Flutter for cross platform development and trying to master it and move upto the Advance level
-- 💞️ I’m looking to collaborate on literally anything related to programming or tech
+- 🤓 I'm a nerd when it comes to creating andorid applications, Deep learning projects, and also ( IRON MAN ) 
+- 👀 I’m seeking for research internship opportunities, prefferably in the field of Data science, Machine Learning and computer vision.
+- 🌱 I’m currently gaining skills on object detection and training models to identify real time objects.
 - 📫 How to reach me : you can send me an email at : akash.kbarik1@gmail.com
 
 <!---
